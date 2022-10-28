@@ -1,0 +1,74 @@
+.flutuante{
+    float: left;
+    margin:  10px 800px;
+    padding: 10px;
+}
+
+.wallpaper{
+    background-image: url(imagem/shutterstock_528921187-scaled.jpg);
+}
+
+.wallpapercada {
+    background-image: url(imagem/CAPA.png);
+}
+
+.space{
+    width: 100%;
+}
+
+.cada {
+    text-align: center;
+    text-decoration: none;
+}
+
+/* a:hover {
+    background-color: white;
+    border: 1px green;
+} */
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(0, 0, 0);
+}
+
+a:link {
+    color: rgb(0, 0, 0);
+}
+
+.cadaevi {
+    width: 100%;
+}
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+}
+
+.white {
+    color: white;
+}
+
+ul a {
+    display: block;
+    /* background-color: transparent; */
+    background-image: url(imagem/white.png);
+    border: 2px solid rgb(0, 47, 255);
+    padding: 10px;
+    /* width: 10%; */
+}
+
+ul li {
+    float: left;
+}
+
+.wallpaperhome{
+    background-image: url(imagem/9079c225f96abfe3214cacd476524d98.jpg);
+}
+
+.contro{
+    float: right;
+}
+
